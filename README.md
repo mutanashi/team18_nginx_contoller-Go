@@ -8,7 +8,6 @@ This project is built with Go (Golang) and provides functionality to manage or c
 ## Tech Stack
 - Go (Golang)
 - Nginx
-- Bootstrap (if frontend is included)
 - Docker (optional)
 
 ---
@@ -27,3 +26,10 @@ sudo apt install golang-go
 Verify installation:
 ```bash
 go version
+
+
+### 2. Install Nginx
+```
+apt update
+apt install nginx -y
+```
