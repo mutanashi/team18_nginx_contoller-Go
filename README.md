@@ -26,7 +26,7 @@ sudo apt install golang-go
 Verify installation:
 ```bash
 go version
-
+```
 
 ### 2. Install Nginx
 ```
