@@ -33,3 +33,8 @@ go version
 apt update
 apt install nginx -y
 ```
+
+### 3. Install docker(maybe)
+Docker install guide - https://docs.docker.com/engine/install/
+
+
